@@ -1,1 +1,1 @@
-#Dockerfile - Build image with loaded MySQL schema
+# Dockerfile - Build image with loaded MySQL schema
